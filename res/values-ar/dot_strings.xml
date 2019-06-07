@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">اختيار صور أو فيديوهات من هذا الجهاز</string>
+    <string name="mediapicker_galleryChooserDescription_custom">اختيار صور أو مقاطع فيديو من هذا الجهاز</string>
     <string name="mediapicker_audioListChooserDescription">اختيار ملفات صوتية من هذا الجهاز</string>
     <string name="mediapicker_gallery_image_item_attachment_too_large">لا يمكن إرفاق الفيديو. تم تجاوز الحجم الأقصى للرسالة.</string>
     <string name="mediapicker_audio_list_title">اختر ملف صوتي</string>
@@ -28,7 +28,7 @@
     <string name="swipe_to_delete_conversation_pref_title">اسحب للحذف</string>
     <string name="swipe_to_delete_conversation_pref_summary">اسحب لليمين لحذف المحادثة</string>
     <!-- Show emoticons -->
-    <string name="show_emoticons_pref_title">الوصول إلى التعبيرات</string>
+    <string name="show_emoticons_pref_title">الوصول إلى الرموز التعبيرية</string>
     <string name="show_emoticons_pref_summary">إظهار مفتاح الرموز التعبيرية على لوحة المفاتيح</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">رسالة جديدة</string>

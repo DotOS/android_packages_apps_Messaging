@@ -19,17 +19,17 @@
     <!-- Video and audio attachments -->
     <string name="mediapicker_galleryChooserDescription_custom">Chọn hình hoặc phim từ thiết bị này</string>
     <string name="mediapicker_audioListChooserDescription">Chọn tập tin âm thanh từ thiết bị nay</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Không thể đính kèm tập. Đã vượt quá kích thước thư tới đa.</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">Không thể đính kèm video. Đã vượt quá kích thước thư tối đa.</string>
     <string name="mediapicker_audio_list_title">Chọn âm thanh</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">Âm thanh chọn được</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">Âm thanh được chọn.</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">Âm thanh không được chọn.</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> đã chọn</string>
     <!-- Swipe to delete conversation -->
-    <string name="swipe_to_delete_conversation_pref_title">Vượt để xóa </string>
-    <string name="swipe_to_delete_conversation_pref_summary">Vượt sáng phải để xóa một cuộc trò chuyện</string>
+    <string name="swipe_to_delete_conversation_pref_title">Vuốt để xóa</string>
+    <string name="swipe_to_delete_conversation_pref_summary">Vuốt sang phải để xoá cuộc gọi</string>
     <!-- Show emoticons -->
-    <string name="show_emoticons_pref_title">Emoticons access</string>
-    <string name="show_emoticons_pref_summary">Show the emoticons key on the keyboard</string>
+    <string name="show_emoticons_pref_title">Truy cập vào biểu tượng cảm xúc</string>
+    <string name="show_emoticons_pref_summary">Hiển thị phím biểu tượng cảm xúc trên bàn phím</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Tin nhắn mới </string>
 </resources>
